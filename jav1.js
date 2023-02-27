@@ -690,6 +690,8 @@ if(userTodo === '1'){
     })
     allTodo.splice(deleteTodo , 1)
     console.log(allTodo);
+
+    
 }
 
 
